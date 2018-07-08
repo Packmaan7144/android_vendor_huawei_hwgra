@@ -613,5 +613,5 @@ PRODUCT_COPY_FILES := \
 	vendor/huawei/hwgra/proprietary/miniisp/miniBoot2.bin:system/miniisp/miniBoot2.bin \
 	vendor/huawei/hwgra/proprietary/miniisp/miniBoot.bin:system/miniisp/miniBoot.bin \
 	vendor/huawei/hwgra/proprietary/miniisp/chip_det.bin:system/miniisp/chip_det.bin \
-	vendor/huawei/hwgra/proprietary/isp/isp.bin:system/isp/isp.bin 
-	
+	vendor/huawei/hwgra/proprietary/isp/isp.bin:system/isp/isp.bin \
+		vendor/huawei/hwgra/proprietary/etc/wifi/hostapd.conf:vendor/etc/wifi/hostapd.conf
